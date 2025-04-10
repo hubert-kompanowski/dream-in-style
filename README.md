@@ -5,12 +5,16 @@
  <a href='https://dream-in-style.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>&nbsp;
  <a href='#citation'><img src='https://img.shields.io/badge/BibTex-Citation-blue.svg'></a>&nbsp;
 
+
 _**[Hubert Kompanowski](https://kompanowski.com/), [Binh-Son Hua](https://sonhua.github.io/)**_
 <br>
 International Conference on 3D Vision (3DV) 2025
 <br>
 
+<br>
+<img src="assets/teaser.gif" width="100%" alt="Dream-in-Style Teaser" loop="infinite">
 </div>
+
 
 
 ## Installation 
@@ -37,7 +41,7 @@ International Conference on 3D Vision (3DV) 2025
 2. **Clone Dream-in-Style to "custom" directory**
    ```bash
    cd threestudio/custom
-   git clone https://github.com/trinity-graphics/dream-in-style.git
+   git clone https://github.com/hubert-kompanowski/dream-in-style.git
    ```
 
 3. **Create Conda environment and install dependencies**
